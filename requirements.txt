@@ -4,3 +4,4 @@ scikit-learn
 jupyterlab
 streamlit
 requests
+python-dotenv
